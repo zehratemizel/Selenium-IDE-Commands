@@ -1,6 +1,7 @@
 # Selenium-IDE-Commands
 
 **Selenium IDE**
+
 Selenium, test otomasyonunu kolaylaştıran en popüler açık kaynaklı araçlardan biridir. Selenium IDE'de test komut dosyaları Java, C#, Python gibi çeşitli programlama dillerinde oluşturulabilir. Selenium yalnızca web uygulamalarının test edilmesine izin verir. Selenium bir araç paketidir ve her araç farklı test ihtiyaçlarına hizmet eder.
 
 Selenese komutları, Selenium IDE'de test senaryoları oluşturan komutlar olarak adlandırılır. Selenese, çeşitli web işlemlerini gerçekleştirmek için Selenium IDE'de kullanılan komutların setleridir. Bu, Selenium IDE'de kodlama betikleri geliştirmek için kullanılır. Eleman konumlandırıcı, bir komutun hangi HTML öğesine işaret edeceğini Selenium'un belirlemesine yardımcı olur. Bu konumlandırıcılar, Mozilla'nın FirePath ve FireBug eklentileri kullanılarak tespit edilebilir.
